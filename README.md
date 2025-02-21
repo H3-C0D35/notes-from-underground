@@ -2,9 +2,9 @@
 *Like a typical student, I am chained to this life and a __degree__ that i kind of want but have to do some extra subjects(and pay a ton of money) for.
 *Of course, I could’ve done much better if someone just __kidnapped__ me and __mentored__ me into this shit.* 😭
 
-*using [TryHackMe](https://tryhackme.com), i grow...*
+*using [TryHackMe](https://tryhackme.com)*
 
-__*STREAK*🔥: *2*__ 
+__*STREAK*🔥: *7*__ 
 
 ```(i update it after every 10 days)```  
 
